@@ -2,7 +2,7 @@
 
 An Excel dashboard analyzing **34,500 orders (2023–2025)** to find out where a store makes and loses money.
 
-![Dashboard](photo_2026-11-13_23-48-41.jpg)
+![Dashboard](photo_2026-11-13_23-48-41.jpg.png)
 
 ## Key numbers
 - **Sales:** $5.87M
